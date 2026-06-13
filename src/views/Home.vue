@@ -439,7 +439,6 @@ onMounted(() => {
     order: 2;
   }
 
-  /* highlight slider media overrides removed */
 
   .access-grid {
     grid-template-columns: repeat(2, 1fr);
