@@ -1,0 +1,1 @@
+var e=`/UASPEMWEB2026/assets/culinary-seafood-DlbvQfql.png`;export{e as t};

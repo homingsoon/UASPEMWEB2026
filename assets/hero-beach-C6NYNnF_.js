@@ -1,0 +1,1 @@
+var e=`/UASPEMWEB2026/assets/hero-beach-BGsY1yny.png`;export{e as t};

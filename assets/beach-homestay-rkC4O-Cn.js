@@ -1,0 +1,1 @@
+var e=`/UASPEMWEB2026/assets/beach-cafe-C5cMcQdh.png`,t=`/UASPEMWEB2026/assets/beach-homestay-C4pL2X6u.png`;export{e as n,t};

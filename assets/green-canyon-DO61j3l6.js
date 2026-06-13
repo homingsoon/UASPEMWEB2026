@@ -1,0 +1,1 @@
+var e=`/UASPEMWEB2026/assets/hero-surf-14j156eS.png`,t=`/UASPEMWEB2026/assets/green-canyon-KuAwZ7JY.png`;export{e as n,t};
